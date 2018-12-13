@@ -24,7 +24,7 @@ class Operators {
 
         Boolean Girlfriend = false;
 
-        if(Girlfriend == false && (income < (NeededIncome + Savings)){
+        if((Girlfriend == false) && (income < (NeededIncome + Savings))){
             System.out.println (Neither);
         }
         else if ((Girlfriend == false) || (income < (NeededIncome + Savings))){
