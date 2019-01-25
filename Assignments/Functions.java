@@ -5,7 +5,7 @@ class Functions {
 
     public static void main(String[] args){
         boolean Result = bothEven(testNum1, testNum2);
-        if(Result == true){
+        if(Result){
             evenPrint(testNum1, testNum2);
         }
         else{
